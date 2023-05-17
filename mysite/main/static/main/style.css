@@ -1,5 +1,6 @@
-body{
+.layer1{
     background: black url("images/pexels-pixabay-531880.jpg") no-repeat;
+    background-size: cover;
 }
 ul {
     list-style-type: none;
@@ -24,6 +25,8 @@ li a {
 li a:hover {
     background-color: #111;
 }
-p{
-    color: #FFF;
+.title{
+    color:white;
+    text-align: center;
+    text-decoration: none;
 }
